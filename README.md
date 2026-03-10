@@ -90,16 +90,16 @@ Also tested file encryption using OpenSSL.
 ## Screenshots
 
 ### Kali IP
-![Kali IP](screenshots/2 — Start Both Machines kali.png)
+![Kali IP](screenshots/2%20%E2%80%94%20Start%20Both%20Machines%20kali.png)
 
 ### Ping Test
-![Ping](screenshots/3 — Test Connectivity.png)
+![Ping](screenshots/3%20%E2%80%94%20Test%20Connectivity.png)
 
 ### Nmap Scan
-![Nmap](screenshots/4 — Run Nmap Scan.png)
+![Nmap](screenshots/4%20%E2%80%94%20Run%20Nmap%20Scan.png))
 
 ### Wireshark Capture
-![Wireshark](screenshots/5 — Wireshark Capture.png)
+![Wireshark](screenshots/5%20%E2%80%94%20Wireshark%20Capture.png)
 
 ## Key Learnings
 
