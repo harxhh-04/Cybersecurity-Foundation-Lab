@@ -1,0 +1,22 @@
+# Reconnaissance
+whois google.com
+nslookup google.com
+nmap -sn 192.168.56.0/24
+
+# Nmap Scanning
+nmap 192.168.56.102
+nmap -sS -sV -O 192.168.56.102
+nmap -sU 192.168.56.102
+
+# OpenVAS
+sudo gvm-setup
+sudo gvm-start
+
+# Wireshark
+wireshark
+
+# SYN Flood
+sudo hping3 -S 192.168.56.102 -p 80 --flood
+
+# Firewall
+sudo iptables -A INPUT -p tcp --dport 80 -j DROP
